@@ -6,3 +6,6 @@ Ensures that 'p-button' (PrimeNG) components don't use (click) event (cause of b
 E.G.
 `<p-button (click)="save()"></p-button> \\ Error`
 `<p-button (onClick)="save()"></p-button> \\ Good`
+
+You can find it on npm
+`npm i tslint-rule-primeng-pbutton-disallow-click-event`
