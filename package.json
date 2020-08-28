@@ -1,12 +1,16 @@
 {
   "name": "tslint-rule-primeng-pbutton-disallow-click-event",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidediak/tslint-rule-primeng-pbutton-disallow-click-event.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["PrimeNG", "tslint", "rule", "pbutton", "p-button", "click", "onClick", "event"],
   "author": "Davide Diaconu",
   "license": "ISC",
   "dependencies": {
